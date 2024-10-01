@@ -1,10 +1,12 @@
 
-# CF7Storer – Securely Store Files from Contact Form 7
+# CF7Storer – Securely Store Files from Contact Form 7 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Version**: 2.6.0  
 **Author**: Wiestyy
 
 CF7Storer is a WordPress plugin that securely stores files uploaded via the Contact Form 7 plugin. It provides flexible storage options with security measures to ensure files are only accessible by administrators and not publicly available.
+
+<img style="width: 450px" src="https://i.imgur.com/iXhRzmQ.png"> <img style="width: 250px" src="https://i.imgur.com/SuLhtfK.png">
 
 ## Features
 
